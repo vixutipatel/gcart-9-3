@@ -1,0 +1,12 @@
+.jumbotron {
+    max-width: 100%;
+    text-align: center;
+    background: #ffffff;
+}
+
+.item {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    background: #ffffff;
+    padding: 20px;
+}
